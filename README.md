@@ -43,16 +43,6 @@ More client sites on my [portfolio](https://arafatanam.github.io).
 | **[SMILE](https://huggingface.co/arafatanam/SMILE-llama-3-8b-Instruct)** · LLaMA 3 8B | Fine-tuned with PEFT, LoRA and 4-bit quantization on 10,252 rows. BERTScore 0.89 |
 | **LLM fine-tuning suite** | Mistral 7B, LLaMA 3 8B and Qwen2.5 7B compared. Best perplexity 2.85 (Mistral) |
 
-## Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Product Engineer | STYN | Oct 2026 to present |
-| AI Engineer | Viscrow Health | Sep 2025 to Jul 2026 |
-| Software Engineer Intern | Prantik Group | May 2025 to Aug 2025 |
-| E-commerce Operations Manager | Prism The Store | May 2023 to Apr 2025 |
-| React Frontend Developer | Quantecho | Nov 2022 to Oct 2023 |
-
 ## Stack
 
 | | |
